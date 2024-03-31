@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url('unnamed.gif');
+    background-image: ('unnamed.gif');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
