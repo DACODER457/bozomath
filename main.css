@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url('https://gifdb.com/images/high/cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.gif');
+    background-image: url('https://i.pinimg.com/originals/bc/2d/b6/bc2db62d399a321f814e90a8503b9fcc.gif');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #583194;
+    background-color: #2a292b;
     opacity: 1;
     color: #fff;
     display: flex;
